@@ -1,6 +1,6 @@
 # Identifying Pneumonia in Lung X-Rays by Spencer Breding and John Bower
 
-This project trains machine learning models to identify lung x-rays into one of two categories: healthy or pneumonia afflicted.
+This project trains machine learning models to categorize lung x-rays into one of two categories: healthy or pneumonia afflicted.
 
 ## Note
 Please run all IPYNB files using Google Colab.
